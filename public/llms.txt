@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-c3594ffb.zappy5.app
+https://example.com
 מחפשים את הפלטפורמה הטובה ביותר למסחר אלקטרוני לעסקים קטנים? בזאר אונליין מציעה פתרונות מתקדמים, ממשק ידידותי ותמיכה מלאה. הצטרפו עוד היום והתחילו למכור בקלות!
 
 ### למה לקנות אצלנו
-https://-c3594ffb.zappy5.app/why-shop-with-us
+https://example.com/why-shop-with-us
 למה לקנות דווקא אצלנו? גלו את היתרונות הבלעדיים של בזאר אונליין: משלוחים מהירים, מחירים תחרותיים ושירות לקוחות מעולה. חוויית קנייה שלא תרצו לפספס!
 
 ### אודות
-https://-c3594ffb.zappy5.app/about
+https://example.com/about
 הכירו את בזאר אונליין מקרוב: החזון, הצוות והמחויבות להפוך את חוויית הקנייה באינטרנט לפשוטה ומשתלמת. לחצו כדי ללמוד איך אנחנו משנים את כללי המשחק!
 
 ### צור קשר
-https://-c3594ffb.zappy5.app/contact
+https://example.com/contact
 יש שאלות או רעיונות? צרו קשר עם צוות בזאר אונליין עוד היום! אנחנו זמינים לפתור כל בעיה ולעזור לכם למצוא בדיוק את מה שאתם צריכים. פנו אלינו עכשיו!
 
 ### Products
-https://-c3594ffb.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - בזאר אונליין
 
 ### Cart
-https://-c3594ffb.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-c3594ffb.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-c3594ffb.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-c3594ffb.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-c3594ffb.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-c3594ffb.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - בזאר אונליין
 
 ### Category
-https://-c3594ffb.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - בזאר אונליין
 
 ### תודה שפניתם אלינו
-https://-c3594ffb.zappy5.app/thank-you
+https://example.com/thank-you
 בזאר אונליין - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-c3594ffb.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-c3594ffb.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-c3594ffb.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-c3594ffb.zappy5.app/sitemap.xml
-- Robots: https://-c3594ffb.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-c3594ffb.zappy5.app/llms-full.txt
-- Products (JSON): https://-c3594ffb.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-c3594ffb.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
