@@ -1,0 +1,104 @@
+# בזאר אונליין — Generative Engine Optimization Map
+
+> תצור לי אתר דמו של עסק חנות אונליין
+
+---
+
+## Pages
+
+### בית
+https://-c3594ffb.zappy5.app
+מחפשים את הפלטפורמה הטובה ביותר למסחר אלקטרוני לעסקים קטנים? בזאר אונליין מציעה פתרונות מתקדמים, ממשק ידידותי ותמיכה מלאה. הצטרפו עוד היום והתחילו למכור בקלות!
+
+### למה לקנות אצלנו
+https://-c3594ffb.zappy5.app/why-shop-with-us
+למה לקנות דווקא אצלנו? גלו את היתרונות הבלעדיים של בזאר אונליין: משלוחים מהירים, מחירים תחרותיים ושירות לקוחות מעולה. חוויית קנייה שלא תרצו לפספס!
+
+### אודות
+https://-c3594ffb.zappy5.app/about
+הכירו את בזאר אונליין מקרוב: החזון, הצוות והמחויבות להפוך את חוויית הקנייה באינטרנט לפשוטה ומשתלמת. לחצו כדי ללמוד איך אנחנו משנים את כללי המשחק!
+
+### צור קשר
+https://-c3594ffb.zappy5.app/contact
+יש שאלות או רעיונות? צרו קשר עם צוות בזאר אונליין עוד היום! אנחנו זמינים לפתור כל בעיה ולעזור לכם למצוא בדיוק את מה שאתם צריכים. פנו אלינו עכשיו!
+
+### Products
+https://-c3594ffb.zappy5.app/products
+המוצרים שלנו - בזאר אונליין
+
+### Cart
+https://-c3594ffb.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-c3594ffb.zappy5.app/checkout
+תשלום
+
+### Login
+https://-c3594ffb.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-c3594ffb.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-c3594ffb.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-c3594ffb.zappy5.app/product/:slug
+פרטי המוצר - בזאר אונליין
+
+### Category
+https://-c3594ffb.zappy5.app/category/:slug
+מוצרים - בזאר אונליין
+
+### תודה שפניתם אלינו
+https://-c3594ffb.zappy5.app/thank-you
+בזאר אונליין - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-c3594ffb.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-c3594ffb.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-c3594ffb.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About בזאר אונליין
+תצור לי אתר דמו של עסק חנות אונליין
+
+## Target Audience
+- משפחות צעירות קונים
+- מחפשי מבצעים באינטרנט
+- צרכנים ידידותיים לסביבה
+
+## Industry
+E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-c3594ffb.zappy5.app/sitemap.xml
+- Robots: https://-c3594ffb.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-c3594ffb.zappy5.app/llms-full.txt
+- Products (JSON): https://-c3594ffb.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-c3594ffb.zappy5.app/product-feed.xml
